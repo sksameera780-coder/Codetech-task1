@@ -3,7 +3,7 @@ Name:SHAIK SAMEERA
 company:CODETECH IT SOLUTION
 Domain: DATA ANALYTICS
 Duration:june to july
-Member:
+member:Neela santhosh kumar 
 
 PROJECT TITLE: Sales Trends Visualization Using Data Analytics
 
